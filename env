@@ -1,0 +1,3 @@
+MONGODB_URL = mongodb+srv://Kavindi:kavindi1234@sliit.qnagd.mongodb.net/student_db?retryWrites=true&w=majority
+JWT_SECRET=26878624f7de170dd7c87f7c46657a4cc62e4f92827afb6480c0d0a6e970bdb77d8cc1
+JWT_EXPIRE=10min
